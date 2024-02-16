@@ -1,0 +1,7 @@
+pip install streamlit
+pip install pandas
+pip install joblib
+pip install plotly
+pip install scikit-learn
+pip install bf4
+pip install openpyxl
